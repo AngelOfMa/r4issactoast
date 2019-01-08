@@ -15,5 +15,7 @@
 
 hello <- function() {
   print("Hello~~~")
+  print("Hi")
   print("Hi the world!!!")
 }
+
